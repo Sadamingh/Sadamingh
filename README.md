@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sadamingh&show_icons=1">
 
-I am **Yufeng Xing**, MSDS student at USFCA, MSCS student at Gatech.
+I am **Yufeng Xing**, an MSDS student at USFCA and an MSCS student at Gatech.
 
 - 🔭 I’m currently working on **catching sheep**
 - 🌱 I’m currently learning **krusty krab**
