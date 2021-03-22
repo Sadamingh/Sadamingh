@@ -8,4 +8,4 @@ I am **Yufeng Xing**. Nice to meet you!
 - 🌱 I’m currently learning **krusty krab**
 - 👯 I’m looking to collaborate on **robots 🤖**
 - 🤔 I’m looking for help with **money donation**
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **anything**
