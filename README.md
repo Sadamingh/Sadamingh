@@ -23,8 +23,13 @@ I also have some open-source resouces to help you practice,
 [![Multi-Threading](https://img.shields.io/badge/Pthread%20Practice-View-green)](https://github.com/Sadamingh/PThreads-Practice) 
 [![Linear Models](https://img.shields.io/badge/Linear%20Models-View-green)](https://github.com/Sadamingh/Linearmodel) 
 
-You can also view my undergraduate works from here.
+You can also view my undergraduate works from the following links,
 
+[![Vodafone](https://img.shields.io/badge/Vodafone%20Analytics-View-red)](https://sadamingh.github.io/pdf/vodafone.pdf) 
+[![Siemens](https://img.shields.io/badge/Siemens%20Analytics-View-red)](https://sadamingh.github.io/pdf/Smarterial.pdf) 
+[![WCS](https://img.shields.io/badge/WCS%20Analytics-View-red)](https://sadamingh.github.io/pdf/malasiarisk.pdf) 
+[![NewAuto](https://img.shields.io/badge/New%20Energy%20Vehicles%20Analytics-View-red)](https://sadamingh.github.io/pdf/neauto.pdf) 
+[![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf) 
 
 Aside of being a data science and computer science student, I am a,
 
