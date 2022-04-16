@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I am **Yufeng Xing** (aka. Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge.
+I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge.
 
 Aside of being a data science and computer science student, I am a,
 
@@ -17,7 +17,17 @@ I work with data and softwares, but I enjoy designing as well. You can find my w
 - **My first blog**: [SereneField 1](https://sadamingh.github.io/)
 - **My third blog**: [SereneField 3](https://serenefield.com/)
 - **Visualization work**: [Openpayment Data Visualization](https://openpayment-usf.github.io/694GroupProject/)
-- I am currently working with **MagiKard**: [MagiKard (WIP)](http://magicard-env.eba-b2j2x3bs.us-west-2.elasticbeanstalk.com/) 
+- I am currently working with **MagiKard** in my spare time: [MagiKard (WIP)](http://magicard-env.eba-b2j2x3bs.us-west-2.elasticbeanstalk.com/) 
+- **Find more** of my works in my blog: [Link](https://serenefield.com/About/)
+
+I have some open-source resouces to help you practice,
+
+- **Data Science Interviews** (WIP): [Link](https://github.com/Sadamingh/Data-Science-Interviews)
+- **Advanced Machine Learning**: [Link](https://github.com/Sadamingh/msds630)
+- **Apache Spark**: [Link](https://github.com/Sadamingh/Apache-Spark-Practice)
+- **MongoDB**: [Link](https://github.com/Sadamingh/MongoDB-Practice)
+- **Multi-Threading**: [Link](https://github.com/Sadamingh/PThreads-Practice)
+- **Linear Models**: [Link](https://github.com/Sadamingh/Linearmodel)
 
 I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
 
