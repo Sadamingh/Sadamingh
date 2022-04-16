@@ -1,6 +1,30 @@
 ### Hi there! 
 
-I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge.
+I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
+
+I work with data and softwares, but I enjoy designing as well. You can find my works here.
+
+[![badge](https://img.shields.io/badge/SereneField%201-View-lightgrey)](https://sadamingh.github.io/) 
+[![badge](https://img.shields.io/badge/SereneField%203-View-lightgrey)](https://serenefield.com/)
+[![badge](https://img.shields.io/badge/Openpayment%20Data%20Visualization-View-lightgrey)](https://openpayment-usf.github.io/694GroupProject/)
+
+- I am currently working with **MagiKard** in my spare time
+
+[![badge](https://img.shields.io/badge/MagiKard%20(WIP)%20-View-yellow)](http://magicard-env.eba-b2j2x3bs.us-west-2.elasticbeanstalk.com/)
+
+- **Find more** of my works in my [BLOG](https://serenefield.com/About/)
+
+I also have some open-source resouces to help you practice,
+
+[![DS Interviews](https://img.shields.io/badge/DS%20Interviews%20(WIP)-View-green)](https://github.com/Sadamingh/Data-Science-Interviews) 
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-View-green)](https://github.com/Sadamingh/msds630) 
+[![Apache Spark](https://img.shields.io/badge/Spark%20Practice-View-green)](https://github.com/Sadamingh/Apache-Spark-Practice) 
+[![MongoDB](https://img.shields.io/badge/MongoDB%20Practice-View-green)](https://github.com/Sadamingh/MongoDB-Practice) 
+[![Multi-Threading](https://img.shields.io/badge/Pthread%20Practice-View-green)](https://github.com/Sadamingh/PThreads-Practice) 
+[![Linear Models](https://img.shields.io/badge/Linear%20Models-View-green)](https://github.com/Sadamingh/Linearmodel) 
+
+You can also view my undergraduate works from here.
+
 
 Aside of being a data science and computer science student, I am a,
 
@@ -11,24 +35,5 @@ Aside of being a data science and computer science student, I am a,
 - 🎮 **Gamer**: I have something in my mind now and I am thinking about making a game in the future. I am a huge fan of Undertale ❤️, Arknights ♖, Sekiro 🗡, Horizon Zero Dawn 🤖, Splatoon 🦑, and DST 🍳.
 - 📸 **Photographer**: See some of them [here](https://sadamingh.github.io/gallery.html), althougth I am kind of lazy to update.
 - 🛠 **Hardware Enthusiast**: I am a fan of robots and electronic hardwares, but I have no backgrounds.
-
-I work with data and softwares, but I enjoy designing as well. You can find my works here.
-
-- **My first blog**: [SereneField 1](https://sadamingh.github.io/)
-- **My third blog**: [SereneField 3](https://serenefield.com/)
-- **Visualization work**: [Openpayment Data Visualization](https://openpayment-usf.github.io/694GroupProject/)
-- I am currently working with **MagiKard** in my spare time: [MagiKard (WIP)](http://magicard-env.eba-b2j2x3bs.us-west-2.elasticbeanstalk.com/) 
-- **Find more** of my works in my blog: [Link](https://serenefield.com/About/)
-
-I have some open-source resouces to help you practice,
-
-- **Data Science Interviews** (WIP): [Link](https://github.com/Sadamingh/Data-Science-Interviews)
-- **Advanced Machine Learning**: [Link](https://github.com/Sadamingh/msds630)
-- **Apache Spark**: [Link](https://github.com/Sadamingh/Apache-Spark-Practice)
-- **MongoDB**: [Link](https://github.com/Sadamingh/MongoDB-Practice)
-- **Multi-Threading**: [Link](https://github.com/Sadamingh/PThreads-Practice)
-- **Linear Models**: [Link](https://github.com/Sadamingh/Linearmodel)
-
-I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
 
 💬 Send me an [📨](mailto:yxing11@dons.usfca.edu?subject=%5BMessage%20from%20GitHub%5D) if you have **anything** to ask!
