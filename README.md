@@ -31,14 +31,14 @@ You can also view my undergraduate works from the following links,
 [![NewAuto](https://img.shields.io/badge/New%20Energy%20Vehicles%20Analytics-View-red)](https://sadamingh.github.io/pdf/neauto.pdf) 
 [![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf) 
 
-Aside of being a data science and computer science student, I am a,
+<!-- Aside of being a data science and computer science student, I am a, -->
 
-- 📝 **Blogger**: I wrote articles about computer science and data science. Mainly sharing what I've learned at school. You can find them [here](https://serenefield.com/Blog/).
+<!-- - 📝 **Blogger**: I wrote articles about computer science and data science. Mainly sharing what I've learned at school. You can find them [here](https://serenefield.com/Blog/).
 - ⛰ **Hiker**: I have travelled around Europe and China, but since I am still learning how to 🚗, I haven't got any chances to explore the national parks around US (0/63). 
 - 🏊‍♂️ **Swimmer**: I was a swimming athlete but now I am gaining weights 🥳.
 - 🎻 **Violinist**: I am thinking about composing some day. Maybe one day I can upload some of my music pieces that are still working in progress.
 - 🎮 **Gamer**: I have something in my mind now and I am thinking about making a game in the future. I am a huge fan of Undertale ❤️, Arknights ♖, Sekiro 🗡, Horizon Zero Dawn 🤖, Splatoon 🦑, and DST 🍳.
 - 📸 **Photographer**: See some of them [here](https://sadamingh.github.io/gallery.html), althougth I am kind of lazy to update.
-- 🛠 **Hardware Enthusiast**: I am a fan of robots and electronic hardwares, but I have no backgrounds.
+- 🛠 **Hardware Enthusiast**: I am a fan of robots and electronic hardwares, but I have no backgrounds. -->
 
 💬 Send me an [📨](mailto:yxing11@dons.usfca.edu?subject=%5BMessage%20from%20GitHub%5D) if you have **anything** to ask!
