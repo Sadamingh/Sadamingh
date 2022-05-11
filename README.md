@@ -2,6 +2,21 @@
 
 I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
 
+<!-- Here's a list of my tech stack:
+<br />
+![Python](https://badges.aleen42.com/src/python.svg)
+![Java](https://github.com/aleen42/badges/raw/master/src/java.svg)
+![JS](https://badges.aleen42.com/src/javascript.svg) 
+![Node](https://badges.aleen42.com/src/node.svg)
+![React](https://github.com/aleen42/badges/raw/master/src/react.svg)
+![npm](https://github.com/aleen42/badges/raw/master/src/npm.svg)
+![Docker](https://github.com/aleen42/badges/raw/master/src/docker.svg)
+![GH](https://github.com/aleen42/badges/raw/master/src/github.svg)
+![Atom](https://github.com/aleen42/badges/raw/master/src/atom.svg)
+![VSCode](https://github.com/aleen42/badges/raw/master/src/visual_studio_code.svg) -->
+
+
+
 I work with data and softwares, but I enjoy designing as well. You can find my works here.
 
 [![badge](https://img.shields.io/badge/SereneField%201-View-lightgrey)](https://sadamingh.github.io/) 
