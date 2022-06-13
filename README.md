@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
+<!-- I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
 
 <!-- Here's a list of my tech stack:
 <br />
@@ -44,7 +44,7 @@ You can also view my undergraduate works from the following links,
 [![Siemens](https://img.shields.io/badge/Siemens%20Analytics-View-red)](https://sadamingh.github.io/pdf/Smarterial.pdf) 
 [![WCS](https://img.shields.io/badge/WCS%20Analytics-View-red)](https://sadamingh.github.io/pdf/malasiarisk.pdf) 
 [![NewAuto](https://img.shields.io/badge/New%20Energy%20Vehicles%20Analytics-View-red)](https://sadamingh.github.io/pdf/neauto.pdf) 
-[![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf) 
+[![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf)  -->
 
 <!-- Aside of being a data science and computer science student, I am a, -->
 
@@ -56,4 +56,6 @@ You can also view my undergraduate works from the following links,
 - 📸 **Photographer**: See some of them [here](https://sadamingh.github.io/gallery.html), althougth I am kind of lazy to update.
 - 🛠 **Hardware Enthusiast**: I am a fan of robots and electronic hardwares, but I have no backgrounds. -->
 
-💬 Send me an [📨](mailto:yxing11@dons.usfca.edu?subject=%5BMessage%20from%20GitHub%5D) if you have **anything** to ask!
+💬 Ask Me Anything!
+
+<!-- 💬 Send me an [📨](mailto:yxing11@dons.usfca.edu?subject=%5BMessage%20from%20GitHub%5D) if you have **anything** to ask! -->
