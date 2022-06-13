@@ -17,20 +17,20 @@
 
 
 
-I work with data and softwares, but I enjoy designing as well. You can find my works here.
+<!-- I work with data and softwares, but I enjoy designing as well. You can find my works here.
 
 [![badge](https://img.shields.io/badge/SereneField%201-View-lightgrey)](https://sadamingh.github.io/) 
 [![badge](https://img.shields.io/badge/SereneField%203-View-lightgrey)](https://serenefield.com/)
-[![badge](https://img.shields.io/badge/Openpayment%20Data%20Visualization-View-lightgrey)](https://openpayment-usf.github.io/694GroupProject/)
+[![badge](https://img.shields.io/badge/Openpayment%20Data%20Visualization-View-lightgrey)](https://openpayment-usf.github.io/694GroupProject/) -->
 
-- I am currently working with **MagiKard** in my spare time
+<!-- - I am currently working with **MagiKard** in my spare time
 
 [![badge](https://img.shields.io/badge/MagiKard%20(WIP)%20-View-yellow)](http://magicard-env.eba-b2j2x3bs.us-west-2.elasticbeanstalk.com/)
 
 - **Find more** of my works in my [BLOG](https://serenefield.com/About/)
 
-I also have some open-source resouces to help you practice,
-
+I also have some open-source resouces to help you practice, -->
+<!-- 
 [![DS Interviews](https://img.shields.io/badge/DS%20Interviews%20(WIP)-View-green)](https://github.com/Sadamingh/Data-Science-Interviews) 
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-View-green)](https://github.com/Sadamingh/msds630) 
 [![Apache Spark](https://img.shields.io/badge/Spark%20Practice-View-green)](https://github.com/Sadamingh/Apache-Spark-Practice) 
@@ -44,7 +44,7 @@ You can also view my undergraduate works from the following links,
 [![Siemens](https://img.shields.io/badge/Siemens%20Analytics-View-red)](https://sadamingh.github.io/pdf/Smarterial.pdf) 
 [![WCS](https://img.shields.io/badge/WCS%20Analytics-View-red)](https://sadamingh.github.io/pdf/malasiarisk.pdf) 
 [![NewAuto](https://img.shields.io/badge/New%20Energy%20Vehicles%20Analytics-View-red)](https://sadamingh.github.io/pdf/neauto.pdf) 
-[![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf)  -->
+[![Yantang](https://img.shields.io/badge/Milk%20Industry%20Analytics-View-red)](https://sadamingh.github.io/pdf/YanytangMarketResearch.pdf) -->
 
 <!-- Aside of being a data science and computer science student, I am a, -->
 
