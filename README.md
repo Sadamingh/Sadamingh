@@ -1,4 +1,29 @@
-### Hi there! 
+### Hi there 👋
+
+I'm Adam (front/end/infra/data). I am currently living in the United States. 汉语是母语。日本語を勉強中。
+<br>
+💬 Please feel free to ask me any questions.
+
+Check out my blogs at:
+- [SereneField](serenefield.com) | Articles before 2022
+- [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
+
+Cool sites & blogs made by friends:
+- https://blog.wjghj.cn/
+- https://github.com/sunhuiquan
+- https://yoliwu.com/
+- https://xqq.im/
+- https://minecreeper.top/
+- https://blog.ayano.top/
+- More coming ...
+<div align="center">
+<h2>Stats</h2>
+You are the number<br><br>
+  
+![Views](https://count.getloli.com/get/@sadamingh?theme=rule34) 
+
+visitors, thank you!
+</div>
 
 <!-- I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
 
@@ -55,7 +80,5 @@ You can also view my undergraduate works from the following links,
 - 🎮 **Gamer**: I have something in my mind now and I am thinking about making a game in the future. I am a huge fan of Undertale ❤️, Arknights ♖, Sekiro 🗡, Horizon Zero Dawn 🤖, Splatoon 🦑, and DST 🍳.
 - 📸 **Photographer**: See some of them [here](https://sadamingh.github.io/gallery.html), althougth I am kind of lazy to update.
 - 🛠 **Hardware Enthusiast**: I am a fan of robots and electronic hardwares, but I have no backgrounds. -->
-
-💬 Ask Me Anything!
 
 <!-- 💬 Send me an [📨](mailto:yxing11@dons.usfca.edu?subject=%5BMessage%20from%20GitHub%5D) if you have **anything** to ask! -->
