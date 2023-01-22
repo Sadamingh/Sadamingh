@@ -20,7 +20,7 @@ Cool sites & blogs made by friends:
 <h2>Stats</h2>
 You are the <br><br>
   
-![Views](https://count.getloli.com/get/@sadamingh?theme=rule34) 
+![Views](https://count.ayaya.beauty/get/@sadamingh?theme=rule34) 
 
 visitor, thank you!
 </div>
