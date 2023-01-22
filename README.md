@@ -15,6 +15,7 @@ Cool sites & blogs made by friends:
 - https://xqq.im/
 - https://minecreeper.top/
 - https://blog.ayano.top/
+- https://wowana.me/blog/
 - More coming ...
 <div align="center">
 <h2>Stats</h2>
