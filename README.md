@@ -4,9 +4,10 @@ I'm Adam (front/end/infra/data). I am currently living in the United States. 汉
 <br>
 💬 Please feel free to ask me any questions.
 
-Check out my blogs at:
-- [SereneField](https://serenefield.com) | Articles before 2022
+Check out my blog at:
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
+- [SereneField3]([https://serenefield.com](https://serene-field.github.io/SereneField3/)) | Articles before 2022
+- [SereneField]([https://serenefield.com](https://serene-field.github.io/SereneField3/)) | Articles in 2019
 
 Cool sites & blogs made by friends:
 - https://blog.wjghj.cn/
