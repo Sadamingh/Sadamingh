@@ -17,6 +17,7 @@ Cool sites & blogs made by friends:
 - https://minecreeper.top/
 - https://blog.ayano.top/
 - https://wowana.me/blog/
+- https://kail10yumeria.com/
 - More coming ...
 <div align="center">
 <h2>Stats</h2>
