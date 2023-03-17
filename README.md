@@ -23,7 +23,7 @@ Cool sites & blogs made by friends:
 <h2>Stats</h2>
 You are the <br><br>
   
-![Views](https://count.ayaya.beauty/get/@sadamingh?theme=rule34) 
+![Views]([https://count.ayaya.beauty/get/@sadamingh?theme=rule34](https://ipacel.cc/+/MoeCounter2/?name=Sadamingh)) 
 
 visitor, thank you!
 </div>
