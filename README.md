@@ -3,7 +3,9 @@
 I'm Adam (front/end/infra/data). I am currently living in the United States. 汉语是母语。日本語を勉強中。
 <br>
 **World Travel Plan (temp solution below)**
-!(map)[https://i.imgur.com/r6eKgKB.jpg]
+
+![map](https://i.imgur.com/r6eKgKB.jpg)
+
 *Credit to https://github.com/PatrickStotz/Travel-Score
 <br>
 💬 Please feel free to ask me any questions.
