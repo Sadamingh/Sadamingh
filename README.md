@@ -10,6 +10,8 @@ Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
 
 Cool sites & blogs made by friends:
+- https://lvwenhan.com/
+- https://www.leavesongs.com/
 - https://blog.wjghj.cn/
 - https://github.com/sunhuiquan
 - https://yoliwu.com/
