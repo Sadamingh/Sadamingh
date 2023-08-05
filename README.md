@@ -29,7 +29,7 @@ You are the <br><br>
   
 <!-- https://ipacel.cc/+/MoeCounter2/?name=Sadamingh -->
 
-visitor, thank you!
+<!-- visitor, thank you! -->
 </div>
 
 <!-- I am **[Yufeng Xing](https://www.linkedin.com/in/yufengxing/)** (pen name: Adam Edelweiss) 👋 I am currently a data science student at University of San Francisco. At the same time, I am also taking the OMSCS at Gatech as a supplement. I studyed Business in China at Sun Yat-sen University so I also have some business-side knowledge. I am currently a data engineer/scientist intern at Blueboard. As a data engineer there, I use Apache Airflow for ETL and monitoring data integrity. As a data scientist there, I developed NLP models based on BERT, LDA, CTM and other models.
