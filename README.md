@@ -22,10 +22,10 @@ Cool sites & blogs made by friends:
 - https://kail10yumeria.com/
 - More coming ...
 <div align="center">
-<h2>Stats</h2>
+<!-- <h2>Stats</h2>
 You are the <br><br>
   
-![Views](https://moe-counter.glitch.me/get/@sadamingh?theme=rule34) 
+![Views](https://moe-counter.glitch.me/get/@sadamingh?theme=rule34)  -->
   
 <!-- https://ipacel.cc/+/MoeCounter2/?name=Sadamingh -->
 
