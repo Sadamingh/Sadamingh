@@ -5,6 +5,16 @@ Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
 
+Roadmaps 
+- [OS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
+- [Comp. Arch](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
+- [Dev](https://omscs.gatech.edu/cs-6300-software-development-process)
+- [Game dev](https://omscs.gatech.edu/cs-6457-video-game-design)
+- [Sec.](https://omscs.gatech.edu/cs-6035-introduction-to-information-security)
+- [Network](https://omscs.gatech.edu/cs-6250-computer-networks)
+- [System Design](https://omscs.gatech.edu/cs-6211-system-design-cloud-computing)
+- [Dev&Test](https://omscs.gatech.edu/cs-6310-software-architecture-design)
+
 <!-- Cool sites & blogs made by friends:
 - https://lvwenhan.com/
 - https://www.leavesongs.com/
