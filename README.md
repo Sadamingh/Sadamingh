@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adam (front/end/infra/data). I am currently living in the United States. 汉语是母语。日本語を勉強中。
+I'm Adam. I am currently living in the United States. 汉语是母语。日本語を勉強中。
 <br>
 💬 Please feel free to ask me any questions.
 
