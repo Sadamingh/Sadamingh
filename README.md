@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm Adam. I am currently living in the United States. 汉语是母语。日本語を勉強中。
-<br>
-💬 Please feel free to ask me any questions.
-
 Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
