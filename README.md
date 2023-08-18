@@ -4,8 +4,8 @@ Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
-<!--
-Cool sites & blogs made by friends:
+
+<!-- Cool sites & blogs made by friends:
 - https://lvwenhan.com/
 - https://www.leavesongs.com/
 - https://blog.wjghj.cn/
@@ -16,8 +16,8 @@ Cool sites & blogs made by friends:
 - https://blog.ayano.top/
 - https://wowana.me/blog/
 - https://kail10yumeria.com/
-- More coming ...
->
+- More coming ... -->
+
 <div align="center">
 <!-- <h2>Stats</h2>
 You are the <br><br>
