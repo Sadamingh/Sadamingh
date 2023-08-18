@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
+🌐 Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
 
-Roadmaps 
+🚏 Roadmaps 
 - [OS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
 - [Comp. Arch](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
 - [Dev](https://omscs.gatech.edu/cs-6300-software-development-process)
@@ -14,6 +14,13 @@ Roadmaps
 - [Network](https://omscs.gatech.edu/cs-6250-computer-networks)
 - [System Design](https://omscs.gatech.edu/cs-6211-system-design-cloud-computing)
 - [Dev&Test](https://omscs.gatech.edu/cs-6310-software-architecture-design)
+
+🚂 World Travel 
+
+- Asia: China, Japan
+- Eur: Italy, France, Germany, Swiss, Spain, Belgium, Netherlands, Czech Rep, Slovakia, Austria, Hungary, Sweden, Norway
+- NA: California, Alaska, Oregon, Washington, Texas, Arizona, Utah, Idaho, Wyoming
+
 
 <!-- Cool sites & blogs made by friends:
 - https://lvwenhan.com/
