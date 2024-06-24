@@ -7,19 +7,20 @@
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
 
-🏜️ Milestones
+<!--  🏜️ Milestones
 - [OS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
 - [Comp. Arch](https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
 - [Dev](https://omscs.gatech.edu/cs-6300-software-development-process)
 - [Game dev](https://omscs.gatech.edu/cs-6457-video-game-design)
 - [Sec.](https://omscs.gatech.edu/cs-6035-introduction-to-information-security)
-- [Network](https://omscs.gatech.edu/cs-6250-computer-networks)
+- [Network](https://omscs.gatech.edu/cs-6250-computer-networks) -->
 
 🚂 World Travel 
 
-- Asia: China, Japan
-- Eur: Italy, France, Germany, Swiss, Spain, Belgium, Netherlands, Czech Rep, Slovakia, Austria, Hungary, Sweden, Norway
 - NA: California, Alaska, Oregon, Washington, Texas, Arizona, Utah, Idaho, Wyoming
+- Eur: Italy, France, Germany, Swiss, Spain, Belgium, Netherlands, Czech Rep, Slovakia, Austria, Hungary, Sweden, Norway
+- Asia: China, Japan
+
 
 
 <!-- Cool sites & blogs made by friends:
