@@ -2,10 +2,10 @@
 
 🌐 Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
-- [Code-Tracker](https://sadamingh.github.io/code-tracker/) | Proj since 8/20/2023
 - 7th Gallery | WIP...
 - [~~SereneField3~~](https://serenefield.com) -> [SereneField3](https://serene-field.github.io/SereneField3/) | Articles before 2022 [Archived]
 - [SereneField](https://sadamingh.github.io/main.html) | Articles in 2019 [Archived]
+- [Code-Tracker(sample)](https://sadamingh.github.io/code-tracker/) | Proj since 8/20/2023
 
 <!--  🏜️ Milestones
 - [OS](https://omscs.gatech.edu/cs-6200-introduction-operating-systems)
