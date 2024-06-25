@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Yufeng Xing, a developer at Visa MLAI platform. I'm actively seeking open-source opportunities.  
+
 🌐 Check out my blog at (Source? [Here](https://github.com/Serene-Field)):
 - [SereneField-Sphinx](https://serene-field.github.io/sphinx-transit/) | Articles since 2023
 - 7th Gallery | WIP...
