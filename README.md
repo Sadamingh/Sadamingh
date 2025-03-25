@@ -21,7 +21,7 @@ I'm Yufeng Xing, a developer at Visa MLAI platform. I'm actively seeking open-so
 🚂 World Travel 
 
 - NA: California, New York, Connecticut, Massachusetts, New Hampshire, Alaska, Oregon, Washington, Texas, Arizona, Utah, Idaho, Wyoming
-- Eur: Italy, France, Germany, Swiss, Spain, Belgium, Netherlands, Czech Rep, Slovakia, Austria, Hungary, Sweden, Norway
+- EU: Italy, France, Germany, Swiss, Spain, Belgium, Netherlands, Czech Rep, Slovakia, Austria, Hungary, Sweden, Norway
 - Asia: China, Japan
 
 
